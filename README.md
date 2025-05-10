@@ -12,10 +12,10 @@ Junior Year - Semester 2
 * Final Project Grade: A
 
 # Goal of the Project
-**Project 1**
-This project focused on creating a UNIX-based shell with built-in commands, background processes, and more, in C.
+**Project 1**  
+This project focused on creating a UNIX-based shell with built-in commands, background processes, and more, in C.  
 
-**Project 2**
+**Project 2**  
 This project focused on creating two variations of a banking system in C, that could handle requests, transactions, job queues, and more.
 
 # Notes
